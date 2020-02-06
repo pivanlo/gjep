@@ -91,7 +91,7 @@ a {
 }
 
 .hero {
-  background-image: url("../images/forest.jpg");
+  background-image: url("../images/forest_3k.jpg");
   background-size: cover;
   height: 600px;
   width: 100%;
@@ -971,4 +971,8 @@ a.btn:hover {
   text-align: right;
   display: flex;
   justify-content: flex-end
+}
+
+.video-wrapper {
+  position: relative;
 }
